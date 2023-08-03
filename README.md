@@ -1,2 +1,5 @@
 # enjoyk8s
-Small executable to enjoy Kubernetes with no effort
+
+A small executable to enjoy Kubernetes with no effort.
+
+👷 Work in progress! (August 2023)
